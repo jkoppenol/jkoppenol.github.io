@@ -1,2 +1,2 @@
 # jkoppenol.github.io
-My peronal github website
+My personal github website :D
