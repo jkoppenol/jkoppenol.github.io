@@ -1,2 +1,3 @@
-# jkoppenol.github.io
-My personal github website :D
+# /
+
+This is the root/trunk of my personal github website :D
